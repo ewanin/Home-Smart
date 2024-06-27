@@ -33,7 +33,7 @@ const Form = () => {
                     <label htmlFor="content" className='text-neutral-500 text-[12px] py-1 uppercase absolute -top-3 left-2 -translate-y-1/2 peer-placeholder-shown:left-4 peer-placeholder-shown:top-6 peer-placeholder-shown:text-neutral-900 peer-focus:-top-4 peer-focus:left-2 peer-focus:text-neutral-600 dark:peer-focus:text-neutral-300 transition-all '>How can we help?</label>
                 </div>
 
-                <a href="#" className='p-2 px-6 bg-amber-400 w-max rounded-md shadow-xl hover:shadow-none dark:text-neutral-900 hover:text-neutral-600 flex gap-2'>
+                <a href="#" className='p-2 px-6 font-semibold bg-amber-400 w-max rounded-md shadow-xl hover:shadow-none dark:text-neutral-900 hover:text-neutral-600 flex gap-2'>
                     Submit
                 </a>
             </form>
